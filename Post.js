@@ -65,3 +65,5 @@ export default class Post {
 }
 
 console.log("Hello World");
+
+// changed by Abdurahmon
