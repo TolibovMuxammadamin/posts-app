@@ -62,7 +62,4 @@ export default class Post {
             throw error.response;
         }
     }
-}
 
-console.log("Hello World");
-console.log("Hello World");
