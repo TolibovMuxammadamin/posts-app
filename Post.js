@@ -62,4 +62,4 @@ export default class Post {
             throw error.response;
         }
     }
-}
+
