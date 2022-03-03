@@ -50,6 +50,8 @@ export default class UI {
     /**
      * 
      * @param {Post} post 
+     * \
+     *
      */
     createPostCard(post) {
         const card = document.createElement("div");
