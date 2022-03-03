@@ -24,6 +24,8 @@ export default class Form {
         this.overlayEl = document.querySelector(`${formQS} .overlay`);
     }
 
+    
+
     /**
      * 
      * @param {Post} post 
